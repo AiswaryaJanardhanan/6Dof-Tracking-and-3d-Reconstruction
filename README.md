@@ -1,4 +1,4 @@
-# COS-526-Neural-Rendering-Project
+# 6Dof-Tracking-and-3d-Reconstruction-Project
 To get the inference results, we must run BundleTrack, instant-ngp and Xmem.
 
 To run the project, first download the datasets -  [NOCS Dataset](https://github.com/hughw19/NOCS_CVPR2019) and place in ./NOCS, 
